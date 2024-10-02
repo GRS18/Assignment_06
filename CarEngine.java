@@ -1,4 +1,4 @@
-package Assignment_02;
+package Assignment_06;
 
 class Engine {
     private String engineName;
